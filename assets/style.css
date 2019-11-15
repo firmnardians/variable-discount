@@ -1,0 +1,81 @@
+body{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cardPayment{
+    margin: 10% 30%;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 6px 18px 0 rgba(0,0,0,.2);
+}
+.titlePayment{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: forestgreen;
+}
+.cardDetail{
+    margin-top: 50px;
+}
+.cardDataDetail{
+    display: flex;
+    margin-bottom: 15px;
+}
+.titleItems{
+    font-size: 21px;
+    font-weight: 600;
+    padding-top:12px;
+    width: 170px;
+}
+.inputItems{
+    padding-left: 10px;
+}
+.dataInput{
+    padding: 12px 18px;
+    border: 2px solid #333333;
+    border-radius: 6px;
+    font-size: 17px;
+}
+.cardDiscons{
+    padding: 12px 18px;
+    background: rgb(235, 162, 26);
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 6px;
+    margin-top: 25px;
+}
+.btnPrimary{
+    padding: 12px 18px;
+    background: forestgreen;
+    color: #ffffff;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 18px;
+    display: inline-block;
+    border: none;
+    margin-top: 25px;
+    border-radius: 6px;
+}
+.dataBuy{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 20px;
+    color: black;
+    margin-bottom: 30px;
+}
+.dataDetailProduct{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.dataDetailDiscount{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.acceptDiscount{
+    color: forestgreen;
+    font-weight: 600;
+}
+.totalPriceData{
+    color: forestgreen;
+}
